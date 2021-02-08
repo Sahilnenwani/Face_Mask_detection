@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "any commint"
+git remote ki command chaly gay
+git push -u origin master
